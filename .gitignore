@@ -1,0 +1,14 @@
+# Python / Cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Agent & IDE
+.agents/
+skills-lock.json
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
